@@ -1,5 +1,5 @@
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=katrinani)
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
