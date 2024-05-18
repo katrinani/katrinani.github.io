@@ -11,4 +11,4 @@
 
 
 ### 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte/?user=katrinani)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light/?user=katrinani)
